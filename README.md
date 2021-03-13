@@ -4,4 +4,4 @@
 
 First Assignment - Challenge Excercises - Front End - TestCafe
 
-### `npm test-all`
+### `npm run test-all`
