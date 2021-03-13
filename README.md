@@ -1,4 +1,4 @@
-# Front-End-TestCafe
+# Front End - TestCafe
 
 ## QA Automation Certification
 
