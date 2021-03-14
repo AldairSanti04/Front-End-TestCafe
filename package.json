@@ -1,0 +1,15 @@
+{
+  "name": "testcafe_workshop",
+  "version": "1.0.0",
+  "description": "First Assignment - Challenge Excercises - Front End - TestCafe",
+  "main": "index.js",
+  "scripts": {
+    "test-all": "testcafe chrome ./page_model/test"
+  },
+  "author": "Jorge Aldair Santiago Rufino",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "testcafe": "^1.12.0"
+  }
+}
